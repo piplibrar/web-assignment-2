@@ -1,0 +1,27 @@
+
+#web {
+  
+float:center;
+  
+
+ 
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
+
+
+
+#MB{
+    float:left;
+	  overflow: hidden;
+	  margin: 50px 50px;
+	  background-color : green ;
+    border: 2px solid #8AC007;
+    padding: 60px; 
+    border-radius: 15px 50px;
+    
+
+
+}
